@@ -1,4 +1,4 @@
-# KALKULATOR PRTUMBUHAN TABUNGAN
+# KALKULATOR PERTUMBUHAN TABUNGAN
 Program ini merupakan kalkulator yang digunakan untuk menghitung pertumbuhan tabungan berdasarkan saldo awal, suku bunga tahunan, dan jangka waktu tertentu. Program ini menghitung saldo tabungan setiap tahun dan menampilkan riwayat saldo serta saldo akhir setelah jangka waktu yang ditentukan.
 
 # Fitur
